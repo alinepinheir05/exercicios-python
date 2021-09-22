@@ -1,0 +1,17 @@
+# String é o tipo de dado primitivo em Python
+"""
+str - string
+string está entre aspas
+Associado a um texto
+"""
+print('alguma coisa')
+print("Aspas duplas")
+print('Essa é uma string(str.)')
+# print('Essa é uma'string'(str.)')
+# Para resolver o problema
+print("Essa é uma 'string' (str).")
+print('Essa é uma "string" (str).')
+print("Esse é meu \"texto\" (str).")
+print('Esse é meu \'texto\' (str).')
+print(r'Esse é meu \n (str).')  # Esse \n fala que não tem nada para ser executado dentro
+# Tudo que abre com ', ", {, ( [, deve ser fechado
