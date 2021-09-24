@@ -1,0 +1,3 @@
+if False:
+    print('Verdade.')
+print('A minha expressão não é verdadeira.')

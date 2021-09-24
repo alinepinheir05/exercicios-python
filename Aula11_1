@@ -1,0 +1,18 @@
+"""
+Operadores lógicos
+and, or, not
+in e not in
+"""
+# Verdadeiro e(and) Verdadeiro = Verdadeiro
+# Verdadeiro e(and) Falso = Falso
+# Verdadeiro ou(or) Verdadeiro = Verdadeiro
+# Verdadeiro ou(or) Falso = Verdadeiro
+# Not = if not = se não = inverte a resposta
+
+a = ''
+b = 0
+if not a:
+    print('Por favor, preencha A')
+nome = 'Aline Pinheiro'
+if 'i' in nome:
+    print('Existe a letra i no seu nome.')

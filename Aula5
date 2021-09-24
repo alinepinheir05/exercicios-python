@@ -1,0 +1,25 @@
+"""
++ Adição
+- Subtração
+* Multiplicaçãp
+/ Divisão
+// Divisão Inteira
+** Exponenciação
+%  Retorna um módulo
+() Alterar as precedências da conta
+"""
+print(10*10)
+print(10+10)
+print(10-5)
+print(10/2)
+print('Multiplicação *', 10 * '10')
+print(10 // 3)
+print(10.5 // 3)
+print(2 ** 10)
+print(10 % 3)
+print(5+2*10)
+print((2+5)*10)
+print(20*'A')
+print(20*2)
+print('20'+'A')
+print(20+2)
