@@ -1,0 +1,4 @@
+nome = 'Aline Pinheiro'
+print(nome.lower())
+print(nome.upper())
+print(nome.title())

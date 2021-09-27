@@ -1,0 +1,3 @@
+nome = 'Aline Pinheiro'
+nome_formatado = '{:@>13}'.format(nome)
+print(nome_formatado)
