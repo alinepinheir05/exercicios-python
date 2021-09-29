@@ -1,0 +1,7 @@
+l2 = list(range(0,100,8))
+
+soma = 0
+for valor in l2:
+    print(valor)
+    soma = soma = valor
+print(soma)
